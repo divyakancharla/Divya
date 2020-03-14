@@ -1,0 +1,41 @@
+<div>
+    <table>
+        <tr>
+            <td>Id</td>
+            <td><input type="text" [(ngModel)]='item.eid'></td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td><input type="text" [(ngModel)]='item.ename'></td>
+        </tr>
+        <tr>
+            <td>Join Date</td>
+            <td><input type="date" [(ngModel)]='item.jd'></td>
+        </tr>
+        <tr>
+            <td>Designation</td>
+            <td>
+                <select [(ngModel)]='item.designation'>
+                <option>Programmer</option>
+                <option>TeamLead</option>
+                <option>Project Lead</option></select>
+            </td>
+        </tr>
+        <tr>
+            <td>Salary</td>
+            <td><input type="text" [(ngModel)]='item.sal'></td>
+        </tr>
+        <tr colspan="2">
+            <td><button (click)='Add()'>Click</button></td>
+        </tr>
+    </table>
+</div>
+<div>
+    <pre>
+       Id:{{item.eid}}
+       Name: {{item.ename}}
+      Date: {{item.jd}}
+      Designation:  {{item.designation}}
+      Salary:  {{item.sal}}
+    </pre>
+</div>

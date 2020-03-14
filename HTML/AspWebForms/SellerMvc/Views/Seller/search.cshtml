@@ -1,0 +1,57 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>search</title>
+</head>
+<body>
+    @*@{ var sell = ViewData["Seller"] as SellerMvc.models.Seller;
+            }*@
+           
+    <h2>Seller</h2>
+    <table border="1">
+        <tr>
+            <td>ID</td>
+            <td>Name</td>
+            <td>Password</td>
+            <td>phnumber</td>
+            <td>email</td>
+        </tr>
+        @*<tr>
+            <td>@ViewData["id"]</td>
+            <td>@ViewData["name"]</td>
+            <td>@ViewData["Pass"]</td>
+            <td>@ViewData["phn"]</td>
+            <td>@ViewData["email"]</td>
+        </tr>*@
+        @*<tr>
+        <td>@ViewBag.id</td>
+        <td>@ViewBag.name</td>
+        <td>@ViewBag.pass</td>
+        <td>@ViewBag.phn</td>
+        <td>@ViewBag.email</td>
+         </tr>*@
+        @*<tr>
+            <td>@sell.id</td>
+            <td>@sell.name</td>
+            <td>@sell.pass</td>
+            <td>@sell.phn</td>
+            <td>@sell.email</td>
+        </tr>*@
+        <tr>
+        <td>@ViewBag.Seller.id</td>
+        <td>@ViewBag.Seller.name</td>
+        <td>@ViewBag.seller.pass</td>
+        <td>@ViewBag.seller.phn</td>
+        <td>@ViewBag.seller.email</td>
+         </tr>
+
+    </table>
+</body>
+</html>

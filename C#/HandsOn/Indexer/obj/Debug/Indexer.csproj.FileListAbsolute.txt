@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\Indexer\obj\Debug\Indexer.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\dell\source\repos\Indexer\bin\Debug\Indexer.exe
+C:\Users\dell\source\repos\Indexer\bin\Debug\Indexer.pdb
+C:\Users\dell\source\repos\Indexer\obj\Debug\Indexer.exe
+C:\Users\dell\source\repos\Indexer\obj\Debug\Indexer.pdb

@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function validate() {
+            if (document.myform.NAME.value!= "")
+            {
+                var patt = /[0-9]+/;
+                if (patt.test(document.myform.NAME.value) == false) {
+                    alert("Pleaase Provide Your Name");
+                    document.myform.NAME.focus();
+                    return false;
+                }
+            }
+            if (document.myform.Email.value == "") {
+                alert("Pleaase Provide Your Email");
+                document.myform.Email.focus();
+                return false;
+            }
+            if (document.myform.Zip.value == "" || isNaN(document.myform.Zip.value) ||
+                isNaN(document.myform.Zip.value.length!=5))
+            {
+                alert("Pleaase Provide a Zip Of format ####");
+                document.myform.Zip.focus();
+                return false;
+            }
+            if (document.myform.Country.value == "-1")
+            {
+                alert("Pleaase Provide Your Country");
+                return false;
+            }
+            return (true);
+        }
+    </script>
+</head>
+<body>
+    <form name="myform" action="validate.html" onsubmit="return validate()">
+        <table border="1">
+            <tr>
+                <td align="right">NAME</td>
+                <td>
+                    <input type="text" name="NAME" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">Email</td>
+                <td>
+                    <input type="email" name="Email" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">Zip Code</td>
+                <td>
+                    <input type="text" name="Zip" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">Country</td>
+                <td>
+                    <select name="Country">
+                        <option value="-1" selected>[Choose Country]</option>
+                        <option value="1" selected>INDIA</option>
+                        <option value="2" selected>US</option>
+                        <option value="3" selected>[Choose Country]</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="submit" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

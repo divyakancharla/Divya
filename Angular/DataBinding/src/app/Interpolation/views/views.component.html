@@ -1,0 +1,30 @@
+<!-- <h1>Student Informaaattion!</h1>
+<pre>
+    Id:{{obj.Sid}}
+    Student Name:{{obj.Sname}}
+    Dob:{{obj.Dob}}
+    Age:{{obj.Age}}
+    Std:{{obj.std}}
+
+
+
+</pre> -->
+<h1 [innerText]='obj.Sname'></h1>
+<table>
+    <tr>
+        <td><input type="text" [value]='obj.Sname'></td>
+    </tr>
+    <tr>
+        <td><input type="number" [value]='obj.Sid'></td>
+    </tr>
+    <tr>
+        <td><input type="date" [value]='obj.Dob'></td>
+    </tr>
+    <tr>
+        <td><input type="number" [value]='obj.Age'></td>
+    </tr>
+    <tr>
+        <td><input type="text" [value]='obj.std'></td>
+    </tr>
+</table>
+<a [href]='url'>Google</a>

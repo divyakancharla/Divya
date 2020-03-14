@@ -1,0 +1,6 @@
+E:\Divya\C#\HandsOn\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+E:\Divya\C#\HandsOn\MyFirstApp\bin\Debug\MyFirstApp.exe
+E:\Divya\C#\HandsOn\MyFirstApp\bin\Debug\MyFirstApp.pdb
+E:\Divya\C#\HandsOn\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\MyFirstApp\obj\Debug\MyFirstApp.exe
+E:\Divya\C#\HandsOn\MyFirstApp\obj\Debug\MyFirstApp.pdb

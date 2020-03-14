@@ -1,0 +1,6 @@
+E:\Divya\C#\HandsOn\HandsOnTicketsBook\bin\Debug\HandsOnTicketsBook.exe.config
+E:\Divya\C#\HandsOn\HandsOnTicketsBook\bin\Debug\HandsOnTicketsBook.exe
+E:\Divya\C#\HandsOn\HandsOnTicketsBook\bin\Debug\HandsOnTicketsBook.pdb
+E:\Divya\C#\HandsOn\HandsOnTicketsBook\obj\Debug\HandsOnTicketsBook.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\HandsOnTicketsBook\obj\Debug\HandsOnTicketsBook.exe
+E:\Divya\C#\HandsOn\HandsOnTicketsBook\obj\Debug\HandsOnTicketsBook.pdb

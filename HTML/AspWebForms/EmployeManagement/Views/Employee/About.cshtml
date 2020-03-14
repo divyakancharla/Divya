@@ -1,0 +1,39 @@
+﻿@model EmployeManagement.Models.MyEmployee
+@*@{
+    Layout = null;
+}*@
+
+@*<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>About</title>
+</head>
+<body>*@
+    <table border="1">
+        <tr>
+            <td>
+                ID:
+            </td>
+            <td>
+                Name:
+            </td>
+            <td>
+                Email:
+            </td>
+            <td>
+                Dept:
+            </td>
+        </tr>
+        <tr>
+            <td>@Model.Id </td>
+            <td>@Model.Name </td>
+            <td>@Model.Email </td>
+            <td>@Model.dept </td>
+            <td>@ViewBag.ProjectName</td>
+
+        </tr>
+    </table>
+@*</body>
+</html>*@

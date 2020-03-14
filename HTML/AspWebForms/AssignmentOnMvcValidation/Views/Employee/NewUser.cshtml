@@ -1,0 +1,17 @@
+﻿@model Employee;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>NewUser</title>
+</head>
+<body>
+    <h4>@Html.DisplayFor(m=>m.Name)</h4>
+    @Html.ActionLink("logout","register","Employee")
+</body>
+</html>

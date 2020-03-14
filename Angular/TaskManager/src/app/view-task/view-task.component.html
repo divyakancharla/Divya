@@ -1,0 +1,18 @@
+<table>
+    <tr>
+        <th>Task</th>
+        <th>Priority</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+
+    </tr>
+    <tr *ngFor="let item of dat">
+        <td>
+            {{item.name}}
+        </td>
+        <td>{{item.priority}}</td>
+            <td>{{item.startdt}}</td>
+                <td>{{item.enddt}}</td>
+            
+    </tr>
+</table>

@@ -1,0 +1,19 @@
+My Associate Id:
+844994
+Other team members:
+845114,845164,845067
+Team Lead:
+845114
+My Role in team:
+1.ui part for place order form
+2.Validations using angular
+My development files
+1.placeorder.html
+
+I was strong in:
+1.Html
+2.Css
+I was Weak in :
+bootstrap
+
+

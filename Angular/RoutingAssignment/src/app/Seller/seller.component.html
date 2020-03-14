@@ -1,0 +1,9 @@
+<p>Welcome {{uname}}</p>
+<div>
+    <a [routerLink]="'Additem'" >AddItem</a>
+</div>
+<div>
+    <a [routerLink]="'viewitems'" >ViewItems</a>
+</div>
+<button (click)="logout()">Logout</button>
+<router-outlet></router-outlet>

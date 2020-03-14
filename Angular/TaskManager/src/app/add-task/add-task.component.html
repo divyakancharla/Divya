@@ -1,0 +1,35 @@
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <label>Task</label>
+            </td>
+            <td><input type="text" [(ngModel)]="name"> </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Priority</label>
+            </td>
+            <td><input type="range" [(ngModel)]="priority"> </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Start Date</label>
+            </td>
+            <td><input type="date" [(ngModel)]="startdt"> </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Start Date</label>
+            </td>
+            <td><input type="date" [(ngModel)]="enddt"> </td>
+        </tr>
+        <tr>
+            <td><button (click)="add()">Add Task</button></td>
+            <td><button (click)="reset()" type="reset">Reset</button></td>
+
+        </tr>
+    </table>
+</div>
+<router-outlet></router-outlet>

@@ -1,0 +1,6 @@
+E:\Divya\C#\HandsOn\HandsOnVariablesWithDataTypes\obj\Debug\HandsOnVariablesWithDataTypes.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\HandsOnVariablesWithDataTypes\bin\Debug\HandsOnVariablesWithDataTypes.exe.config
+E:\Divya\C#\HandsOn\HandsOnVariablesWithDataTypes\bin\Debug\HandsOnVariablesWithDataTypes.exe
+E:\Divya\C#\HandsOn\HandsOnVariablesWithDataTypes\bin\Debug\HandsOnVariablesWithDataTypes.pdb
+E:\Divya\C#\HandsOn\HandsOnVariablesWithDataTypes\obj\Debug\HandsOnVariablesWithDataTypes.exe
+E:\Divya\C#\HandsOn\HandsOnVariablesWithDataTypes\obj\Debug\HandsOnVariablesWithDataTypes.pdb

@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script language="javascript" type="text/javascript">
+        function disp() {
+            document.write("Hello all...");
+        }
+        function add(a, b) {
+             
+            return (a + b);
+            
+        }
+        
+        //disp();
+    </script>
+    <title></title>
+</head>
+<body>
+
+    <!--First Number:<input id="T1" type="text" />
+    Second Number: <input id="T2" type="text" />
+
+    Enteer:<input id="t3"type="text" />
+    <h2 id="t">tewtet</h2><input id="Button1" type="button" value="button" onclick="func()" />
+    <input id="Button1" type="button" value="button" onclick="sw()" />-->
+    <script>
+        //function func() {
+        //    var a = parseInt(document.getElementById("T1").value);
+        //    var a2 = parseInt(document.getElementById("T2").value);
+
+        //    if (a > a2)
+        //        document.write(a + "large")
+        //    else
+        //        document.write(a2 + "small");
+        //}
+        //function leap() {
+        //    var year = document.getElementById("t3").value;
+        //    if (year % 400 == 0)
+        //        document.write("MILLIneum Year");
+        //    else if (year % 4 == 0 && year % 100 !== 0)
+        //        document.write("leap year");
+        //    else
+        //        document.write("Not a Leap Year");
+        //}
+        {
+            var num = prompt("enter Number:");
+           // document.write(num);
+            //var day;
+            switch(num) {
+                case "0":
+                   
+                    document.write("sunday");
+                    break;
+                case "1":
+
+                    document.write("MOnday");
+                    break;
+                case 2:
+                    day = "Tuesday";
+                    Console.write(day);
+                    break;
+                case 3:
+                    day = "Wednesday";
+                    Console.write(day);
+                    break;
+                case 4:
+                    day = "Thursday";
+                    Console.write(day);
+                    break;
+                case 5:
+                    day = "Friday";
+                    Console.write(day);
+                    break;
+                case 6:
+                    day = "Saturday";
+                    Console.write(day);
+            }
+        }        
+    </script>
+</body>
+</html>

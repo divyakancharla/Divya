@@ -1,0 +1,11 @@
+E:\Divya\C#\HandsOn\OopsEx\obj\Debug\netcoreapp3.1\OopsEx.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\OopsEx\obj\Debug\netcoreapp3.1\OopsEx.AssemblyInfoInputs.cache
+E:\Divya\C#\HandsOn\OopsEx\obj\Debug\netcoreapp3.1\OopsEx.AssemblyInfo.cs
+E:\Divya\C#\HandsOn\OopsEx\bin\Debug\netcoreapp3.1\OopsEx.exe
+E:\Divya\C#\HandsOn\OopsEx\bin\Debug\netcoreapp3.1\OopsEx.deps.json
+E:\Divya\C#\HandsOn\OopsEx\bin\Debug\netcoreapp3.1\OopsEx.runtimeconfig.json
+E:\Divya\C#\HandsOn\OopsEx\bin\Debug\netcoreapp3.1\OopsEx.runtimeconfig.dev.json
+E:\Divya\C#\HandsOn\OopsEx\bin\Debug\netcoreapp3.1\OopsEx.dll
+E:\Divya\C#\HandsOn\OopsEx\bin\Debug\netcoreapp3.1\OopsEx.pdb
+E:\Divya\C#\HandsOn\OopsEx\obj\Debug\netcoreapp3.1\OopsEx.dll
+E:\Divya\C#\HandsOn\OopsEx\obj\Debug\netcoreapp3.1\OopsEx.pdb

@@ -1,0 +1,11 @@
+E:\Divya\C#\HandsOn\BankAssignment\bin\Debug\netcoreapp3.1\BankAssignment.exe
+E:\Divya\C#\HandsOn\BankAssignment\bin\Debug\netcoreapp3.1\BankAssignment.deps.json
+E:\Divya\C#\HandsOn\BankAssignment\bin\Debug\netcoreapp3.1\BankAssignment.runtimeconfig.json
+E:\Divya\C#\HandsOn\BankAssignment\bin\Debug\netcoreapp3.1\BankAssignment.runtimeconfig.dev.json
+E:\Divya\C#\HandsOn\BankAssignment\bin\Debug\netcoreapp3.1\BankAssignment.dll
+E:\Divya\C#\HandsOn\BankAssignment\bin\Debug\netcoreapp3.1\BankAssignment.pdb
+E:\Divya\C#\HandsOn\BankAssignment\obj\Debug\netcoreapp3.1\BankAssignment.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\BankAssignment\obj\Debug\netcoreapp3.1\BankAssignment.AssemblyInfoInputs.cache
+E:\Divya\C#\HandsOn\BankAssignment\obj\Debug\netcoreapp3.1\BankAssignment.AssemblyInfo.cs
+E:\Divya\C#\HandsOn\BankAssignment\obj\Debug\netcoreapp3.1\BankAssignment.dll
+E:\Divya\C#\HandsOn\BankAssignment\obj\Debug\netcoreapp3.1\BankAssignment.pdb

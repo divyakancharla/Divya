@@ -1,0 +1,11 @@
+<p>switch-intro works!</p>
+<select [(ngModel)]="select">
+    <option *ngFor="let item of items" [value]="item.name">{{item.name}}</option>
+</select>
+<div class="row"  [ngSwitch]="select">
+    <div *ngSwitchCase="'one'">One Is Pressed</div>
+    <div *ngSwitchCase="'Two'">Two Is Pressed</div>
+    <!-- //<div *ngSwitchCase="'Three'">Three Is Pressed</div>
+    <div *ngSwitchCase="'Four'">Four Is Pressed</div> -->
+    <div *ngSwitchDefault>None</div>
+</div>]

@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\ExtensionPractice\bin\Debug\ExtensionPractice.exe.config
+C:\Users\dell\source\repos\ExtensionPractice\bin\Debug\ExtensionPractice.exe
+C:\Users\dell\source\repos\ExtensionPractice\bin\Debug\ExtensionPractice.pdb
+C:\Users\dell\source\repos\ExtensionPractice\obj\Debug\ExtensionPractice.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\ExtensionPractice\obj\Debug\ExtensionPractice.exe
+C:\Users\dell\source\repos\ExtensionPractice\obj\Debug\ExtensionPractice.pdb

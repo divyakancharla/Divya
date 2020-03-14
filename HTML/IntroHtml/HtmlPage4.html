@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form style="align-self:center">
+        <table>
+            <thead>
+
+
+                <tr>
+                    <td>Enter last  Name:</td>
+                    <td><input type="text" required pattern="[a-z]{3,10}"</td>
+                </tr>
+                <tr>
+                    <td>Age:</td>
+                    <td><input type="number" max="60" min="30"</td>
+                </tr>
+                <tr>
+                    <td>select Gender</td>
+                    <td>
+                        <select name="Gender">
+                            <option value="male">Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                    </td>
+
+                </tr>
+                <tr><td> Enter Email:
+                    </td>
+                    <td>
+                        <input type="email" required pattern="{@}"  />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enter Password</td>
+                    <td>
+                        <input type="password" required pattern="{a-z}{3,10}{@!#$%^&Z*}" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enter Your Address</td>
+                    <td>
+                        <textarea id="TextArea1" rows="2" cols="20" maxlength="30"></textarea>
+
+                    </td>
+                    
+                </tr><tr>
+    <td>Country</td>
+    <td>
+        <select value="Country">
+            <option value="India">India</option>
+            <option value="India">Australia</option>
+            <option value="India">Canada</option>
+        </select>
+    </td>
+</tr>
+                <tr>
+                    <td>State</td>
+                    <td><input type="radio" name="male" />Chennai</td>
+                    <td><input type="radio" name="male" />Andhra</td>
+                </tr>
+                <tr>
+                    <td>
+                        Skills:
+                    </td>
+                    <td>
+                        <input type="checkbox" value="check" />java
+                        <input type="checkbox" value="check" />html
+                        <input type="checkbox" value="check" />js
+                        <input type="checkbox" value="check" />.net
+                    </td>
+                </tr>
+</table>
+        <input type="submit" style="align-self:center" />
+</form>
+</body>
+</html>

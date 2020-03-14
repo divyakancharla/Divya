@@ -1,0 +1,48 @@
+<p>on-directives works!</p>
+<table>
+    <tr>
+        <td>Project Id</td>
+        <td><input [(ngModel)]="pid"></td>
+    </tr>
+    <tr>
+        <td>Project Name</td>
+        <td><input [(ngModel)]="pname"></td>
+    </tr>
+    <tr>
+        <td>Project Id</td>
+        <td><select [(ngModel)]="domain">
+            <option>Java</option>
+            <option>DotNet</option>
+            <option>Azure</option></select>
+        </td>
+    </tr>
+    <tr>
+        <td>Start Date</td>
+        <td><input type="date" [(ngModel)]="startdt"></td>
+    </tr>
+    <tr>
+        <td>End Date </td>
+        <td><input [(ngModel)]="enddt"></td>
+    </tr>
+    <tr>
+        <td><button (click)="Add()">Submit</button></td>
+    </tr>
+</table>
+<table class="table  table-responsive">
+    <tr>
+        <th>Pid</th>
+        <th>Pname</th>
+        <th>Domain</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+
+
+    </tr>
+    <tr *ngFor="let item of obj">
+        <td>{{item.pid}}</td>
+        <td>{{item.pname}}</td>
+        <td>{{item.domain}}</td>
+        <td>{{item.startdt}}</td>
+        <td>{{item.enddt}}</td>
+    </tr>
+</table>

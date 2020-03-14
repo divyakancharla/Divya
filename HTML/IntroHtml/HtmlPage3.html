@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form style="background-color:blanchedalmond">
+        <table>
+            <thead>
+
+                <tr>
+                    <th>Name</th>
+                    <th>Enter</th>
+                </tr>
+                <tr>
+                    <td>Enter first Name:</td>
+                    <td><input type="text" disabled value="CTS"</td>
+                </tr>
+                <tr>
+                    <td>Enter last  Name:</td>
+                    <td><input type="text" required pattern="[a-z]{3,10}"</td>
+                </tr>
+                <tr>
+                    <td>Age:</td>
+                    <td><input type="number" max="60" min="30"</td>
+                </tr>
+                <tr>
+                    <td>select Gender</td>
+                    <td>
+                        <select name="Gender">
+                            <option value="male">Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>State</td>
+                    <td><input type="radio" name="male" />Chennai</td>
+                    <td><input type="radio" name="male" />Andhra</td>
+                </tr>
+                <tr>
+                    <td>Country</td>
+                    <td>
+                        <fieldset>
+                            <legend>Country</legend>
+                            <input type="radio" name="male" />Chennai
+                            <input type="radio" name="male" />Andhra
+                        </fieldset>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td>
+                        <textarea id="TextArea1" rows="2" cols="20" maxlength="10 "></textarea>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>
+                        <input id="Button1" type="submit" value="button" />
+                    </td>
+                </tr>
+            </thead>
+        </table>
+    </form>
+</body>
+</html>

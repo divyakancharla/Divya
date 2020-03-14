@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\HandsOnThreads\bin\Debug\HandsOnThreads.exe.config
+C:\Users\dell\source\repos\HandsOnThreads\bin\Debug\HandsOnThreads.exe
+C:\Users\dell\source\repos\HandsOnThreads\bin\Debug\HandsOnThreads.pdb
+C:\Users\dell\source\repos\HandsOnThreads\obj\Debug\HandsOnThreads.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\HandsOnThreads\obj\Debug\HandsOnThreads.exe
+C:\Users\dell\source\repos\HandsOnThreads\obj\Debug\HandsOnThreads.pdb

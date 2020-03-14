@@ -1,0 +1,9 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Html.DisplayFor(m=>m.Name)</h1>
+<h1>@Html.DisplayFor(m=>m.Pwd)</h1>
+@Html.ActionLink("Logout","login","User")
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDAL", "EFDAL\EFDAL.csproj", "{398C5B43-8703-4914-B7C7-BB9F989B5530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkUsages", "EntityFrameworkUsages\EntityFrameworkUsages.csproj", "{EBAEE66B-93F6-430E-B279-2CA63A97C055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398C5B43-8703-4914-B7C7-BB9F989B5530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398C5B43-8703-4914-B7C7-BB9F989B5530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398C5B43-8703-4914-B7C7-BB9F989B5530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398C5B43-8703-4914-B7C7-BB9F989B5530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAEE66B-93F6-430E-B279-2CA63A97C055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAEE66B-93F6-430E-B279-2CA63A97C055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAEE66B-93F6-430E-B279-2CA63A97C055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAEE66B-93F6-430E-B279-2CA63A97C055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9931EB35-BFBA-4BD5-BA97-5C50298DD782}
+	EndGlobalSection
+EndGlobal

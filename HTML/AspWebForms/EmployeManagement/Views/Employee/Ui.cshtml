@@ -1,0 +1,69 @@
+﻿@model MyEmployee
+@{
+    ViewData["Title"] = "Ui";
+}
+@*@using (Html.BeginForm()) {*@
+@*<h1>Ui</h1>
+    Name:@Html.TextBox("Text", "Enter NAme:")
+    <br />
+    Address:@Html.TextArea("Text", "Enter Address:")
+    <br />
+    Password:@Html.Password("Text", "Enter Password:");
+    <br />
+    Program:@Html.ListBox("l1", new MultiSelectList(new[] { "l1", "Asp.net Core" }))*@
+
+
+
+@*Name: @Html.TextBoxFor(e => e.Name, "Enter Name:")
+<br />
+Address: @Html.TextAreaFor(e => e.Dept)
+<br />
+Email: @Html.LabelFor(e => e.Email);
+<br />*@
+
+
+@*@Html.Display("Id")
+<br />
+@Html.DisplayFor(m => m.Id)
+<br />
+@Html.Display("Name")
+<br />
+@Html.DisplayFor(m => m.Name);
+<br />
+@Html.Display("Email")
+<br />
+@Html.DisplayFor(m => m.Email);
+<br />
+@Html.Display("Dept");
+<br />
+@Html.EditorFor(m => m.Dept);
+<br />
+<button class="btn btn-dark" type="submit" value="submit" action="Employee/Create/1"></button>}*@
+
+    <form asp-controller="Employee" asp-action="Ui">
+        <div class="form-row">
+            <label asp-for="Id" class="col-form-label">Id</label>
+            <input asp-for="Id" />
+            <span asp-validation-for="Id"></span>
+        </div>
+        <div class="form-row">
+            <label asp-for="Name" class="col-form-label">Name</label>
+            <input asp-for="Name" />
+            <span asp-validation-for="Name"></span>
+        </div>
+        <div>
+            <label asp-for="Email" class="col-form-label">Email</label>
+            <input asp-for="Email" />
+            <span asp-validation-for="Email"></span>
+        </div>
+        <div>
+            <label asp-for="dept" class="col-form-label">Dept</label>
+            <select asp-for="dept" class="col-lg-6" asp-items="Html.GetEnumSelectList<Dept>()"></select>
+            <span asp-validation-for="dept"></span>
+        </div><br />
+        <div asp-validation-summary="All"></div>
+        <div class="form-row">
+            @*// <input type="submit" value="Create Employee" />*@
+            <button type="submit" value="Create">Create</button>
+        </div>
+    </form>

@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\AssignmentOnArray\bin\Debug\AssignmentOnArray.exe.config
+C:\Users\dell\source\repos\AssignmentOnArray\bin\Debug\AssignmentOnArray.exe
+C:\Users\dell\source\repos\AssignmentOnArray\bin\Debug\AssignmentOnArray.pdb
+C:\Users\dell\source\repos\AssignmentOnArray\obj\Debug\AssignmentOnArray.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\AssignmentOnArray\obj\Debug\AssignmentOnArray.exe
+C:\Users\dell\source\repos\AssignmentOnArray\obj\Debug\AssignmentOnArray.pdb

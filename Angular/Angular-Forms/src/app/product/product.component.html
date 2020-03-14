@@ -1,0 +1,14 @@
+<div class="container">
+    <form [formGroup]="product" (ngSubmit)="Add()">
+        <div class="form-group">
+            <label>ID:</label>
+            <input type="text" formControlName="id" class="form-control" [ngClass]="{'is-invalid':submit && f.id.errors}">
+            <div *ngIf="submit && f.id.errors" class="Invalid-feedback">
+                <div *ngIf="f.id.errors.required">ID Invalid</div>
+            </div>
+        </div>
+    </form>
+</div>
+<div>
+    <button type="submit">Add</button>
+</div>

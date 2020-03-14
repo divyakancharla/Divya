@@ -1,0 +1,11 @@
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\bin\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.exe
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\bin\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.deps.json
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\bin\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.runtimeconfig.json
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\bin\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.runtimeconfig.dev.json
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\bin\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.dll
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\bin\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.pdb
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\obj\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\obj\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.AssemblyInfoInputs.cache
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\obj\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.AssemblyInfo.cs
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\obj\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.dll
+E:\Divya\C#\HandsOn\DifferentMethodsForCallingFunction\obj\Debug\netcoreapp3.1\DifferentMethodsForCallingFunction.pdb

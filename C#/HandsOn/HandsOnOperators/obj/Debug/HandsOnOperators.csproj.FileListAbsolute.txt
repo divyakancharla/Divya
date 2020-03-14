@@ -1,0 +1,5 @@
+E:\Divya\C#\HandsOn\HandsOnOperators\bin\Debug\HandsOnOperators.exe.config
+E:\Divya\C#\HandsOn\HandsOnOperators\bin\Debug\HandsOnOperators.exe
+E:\Divya\C#\HandsOn\HandsOnOperators\bin\Debug\HandsOnOperators.pdb
+E:\Divya\C#\HandsOn\HandsOnOperators\obj\Debug\HandsOnOperators.exe
+E:\Divya\C#\HandsOn\HandsOnOperators\obj\Debug\HandsOnOperators.pdb

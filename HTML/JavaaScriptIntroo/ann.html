@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    
+</head>
+<body>
+    <script>
+        function Outer() {
+            var n = 100;
+            function inner() {
+                n++;
+                alert(n);
+            }
+            return inner;
+        }
+        var innerfunc = Outer();
+        innerfunc();
+        innerfunc();
+    </script>
+    <h2>dgfdgf </h2>
+</body>
+</html>

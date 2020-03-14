@@ -1,0 +1,49 @@
+﻿@model Employee;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>register</title>
+</head>
+<body>
+    <h1>Register</h1>
+@using (Html.BeginForm())
+{
+    <table class="table table-bordered">
+        <tr>
+            <td>Eid</td>
+            <td>@Html.TextBox("eid")</td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>@Html.TextBoxFor(m => m.Name)</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>@Html.TextBoxFor(m => m.Desg)</td>
+        </tr>
+        <tr>
+            <td>Designation</td>
+            <td>@Html.DropDownListFor(m => m.Desg, new SelectList(new string[] { "Manager", "Team Lead", "Trainee" }))</td>
+        </tr>
+        <tr>
+            <td>Projectname</td>
+            <td>@Html.DropDownListFor(m => m.ProjName,new SelectList(new string[] { "BAnking", "e-mart", "Health" }))</td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td>@Html.Password("pass")</td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Register" />
+        </tr>
+    </table>
+}
+</body>
+</html>

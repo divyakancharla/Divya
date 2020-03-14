@@ -1,0 +1,11 @@
+E:\Divya\C#\HandsOn\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.AssemblyInfoInputs.cache
+E:\Divya\C#\HandsOn\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.AssemblyInfo.cs
+E:\Divya\C#\HandsOn\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.exe
+E:\Divya\C#\HandsOn\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.deps.json
+E:\Divya\C#\HandsOn\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.runtimeconfig.json
+E:\Divya\C#\HandsOn\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.runtimeconfig.dev.json
+E:\Divya\C#\HandsOn\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.dll
+E:\Divya\C#\HandsOn\InheritancePractice\bin\Debug\netcoreapp3.1\InheritancePractice.pdb
+E:\Divya\C#\HandsOn\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.dll
+E:\Divya\C#\HandsOn\InheritancePractice\obj\Debug\netcoreapp3.1\InheritancePractice.pdb

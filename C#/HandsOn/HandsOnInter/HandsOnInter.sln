@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnInter", "HandsOnInter.csproj", "{EAB95CAD-44B7-4B65-ACF4-F25296C50FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB95CAD-44B7-4B65-ACF4-F25296C50FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB95CAD-44B7-4B65-ACF4-F25296C50FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB95CAD-44B7-4B65-ACF4-F25296C50FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB95CAD-44B7-4B65-ACF4-F25296C50FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D93191-929B-4C4A-AC80-BCC0C594068E}
+	EndGlobalSection
+EndGlobal

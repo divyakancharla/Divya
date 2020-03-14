@@ -1,0 +1,6 @@
+E:\Divya\C#\HandsOn\Deligate\bin\Debug\Deligate.exe.config
+E:\Divya\C#\HandsOn\Deligate\bin\Debug\Deligate.exe
+E:\Divya\C#\HandsOn\Deligate\bin\Debug\Deligate.pdb
+E:\Divya\C#\HandsOn\Deligate\obj\Debug\Deligate.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\Deligate\obj\Debug\Deligate.exe
+E:\Divya\C#\HandsOn\Deligate\obj\Debug\Deligate.pdb

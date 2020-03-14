@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryAssignment", "ClassLibraryAssignment\ClassLibraryAssignment.csproj", "{6D670CD3-14AD-41F7-9E82-2989BE4E5D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryChild", "ClassLibraryChild\ClassLibraryChild.csproj", "{13360F57-A649-42A9-921C-816AE9739232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D670CD3-14AD-41F7-9E82-2989BE4E5D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D670CD3-14AD-41F7-9E82-2989BE4E5D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D670CD3-14AD-41F7-9E82-2989BE4E5D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D670CD3-14AD-41F7-9E82-2989BE4E5D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13360F57-A649-42A9-921C-816AE9739232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13360F57-A649-42A9-921C-816AE9739232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13360F57-A649-42A9-921C-816AE9739232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13360F57-A649-42A9-921C-816AE9739232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A21AB18E-41B7-4B71-8EC9-CAB7E8E3548D}
+	EndGlobalSection
+EndGlobal

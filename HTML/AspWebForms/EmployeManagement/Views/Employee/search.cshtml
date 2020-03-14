@@ -1,0 +1,106 @@
+﻿@model EmployeManagement.Models.MyEmployee;
+@*@{
+    Layout = null;
+}*@
+
+<!DOCTYPE html>
+@*//Razor Engine creates Connection TO Server Side and pass from Controller to view*@ 
+@*<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>search</title>
+</head>
+<body>*@
+    @*@{var emp = ViewData["Employee"] as EmployeManagement.Models.MyEmployee;
+    }*@
+    <table border="1">
+        <tr>
+            <td>
+                ID:
+            </td>
+            <td>
+                Name:
+            </td>
+            <td>
+                Email:
+            </td>
+            <td>
+                Dept:
+            </td>
+        </tr>
+        @*<tr>
+            <td>
+                @ViewData["id"]
+            </td>
+            <td>
+                @ViewData["name"]
+            </td>
+            <td>
+                @ViewData["Email"]
+            </td>
+            <td>
+                @ViewData["Dept"]
+            </td>
+        </tr>*@
+        @*<tr>
+            <td>
+                @ViewBag.id
+            </td>
+            <td>
+                @ViewBag.name
+            </td>
+            <td>
+                @ViewBag.email
+            </td>
+            <td>
+                @ViewBag.dept
+            </td>
+        </tr>*@
+
+        @*<tr>
+            <td>
+                @emp.Id
+            </td>
+            <td>
+                @emp.Name
+            </td>
+            <td>
+                @emp.Email
+            </td>
+            <td>
+                @emp.Dept
+            </td>
+        </tr>*@
+
+        <tr>
+            <td>
+                @ViewBag.Employee.Id
+            </td>
+            <td>
+                @ViewBag.Employee.Name
+            </td>
+            <td>
+                @ViewBag.Employee.Email
+            </td>
+            <td>
+                @ViewBag.Employee.Dept
+            </td>
+        </tr>
+        @*<tr>
+            <td>
+                @Model.Id
+            </td>
+            <td>
+                @Model.Name
+            </td>
+            <td>
+                @Model.Email
+            </td>
+
+            <td>
+                @Model.Dept
+            </td>
+        </tr>*@
+    </table>
+@*</body>
+</html>*@

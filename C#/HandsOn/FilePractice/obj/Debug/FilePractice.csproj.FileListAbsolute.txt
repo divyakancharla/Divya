@@ -1,0 +1,6 @@
+E:\Divya\C#\HandsOn\FilePractice\bin\Debug\FilePractice.exe.config
+E:\Divya\C#\HandsOn\FilePractice\bin\Debug\FilePractice.exe
+E:\Divya\C#\HandsOn\FilePractice\bin\Debug\FilePractice.pdb
+E:\Divya\C#\HandsOn\FilePractice\obj\Debug\FilePractice.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\FilePractice\obj\Debug\FilePractice.exe
+E:\Divya\C#\HandsOn\FilePractice\obj\Debug\FilePractice.pdb

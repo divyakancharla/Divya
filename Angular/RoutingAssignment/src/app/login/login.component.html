@@ -1,0 +1,24 @@
+<table>
+    <tr>
+        <td>
+            <label>Login</label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <input type="text" [(ngModel)]="Bname">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <input type="text" [(ngModel)]="Bpass">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <button (click)="validate()">Login</button>
+        </td>
+    </tr>
+</table>
+<h5>{{errmsg}}</h5>
+<router-outlet></router-outlet>

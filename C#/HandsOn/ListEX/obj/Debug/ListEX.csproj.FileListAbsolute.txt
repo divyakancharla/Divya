@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\ListEX\bin\Debug\ListEX.exe.config
+C:\Users\dell\source\repos\ListEX\bin\Debug\ListEX.exe
+C:\Users\dell\source\repos\ListEX\bin\Debug\ListEX.pdb
+C:\Users\dell\source\repos\ListEX\obj\Debug\ListEX.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\ListEX\obj\Debug\ListEX.exe
+C:\Users\dell\source\repos\ListEX\obj\Debug\ListEX.pdb

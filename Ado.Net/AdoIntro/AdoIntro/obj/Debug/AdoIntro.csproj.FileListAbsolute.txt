@@ -1,0 +1,6 @@
+E:\Divya\Ado.Net\AdoIntro\AdoIntro\bin\Debug\AdoIntro.exe.config
+E:\Divya\Ado.Net\AdoIntro\AdoIntro\bin\Debug\AdoIntro.exe
+E:\Divya\Ado.Net\AdoIntro\AdoIntro\bin\Debug\AdoIntro.pdb
+E:\Divya\Ado.Net\AdoIntro\AdoIntro\obj\Debug\AdoIntro.csprojAssemblyReference.cache
+E:\Divya\Ado.Net\AdoIntro\AdoIntro\obj\Debug\AdoIntro.exe
+E:\Divya\Ado.Net\AdoIntro\AdoIntro\obj\Debug\AdoIntro.pdb

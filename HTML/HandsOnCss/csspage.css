@@ -1,0 +1,64 @@
+﻿
+    <style>
+    /*tag selector*/
+    h1
+
+{
+    /*color:blue;*/
+    font-family: Arial;
+    /*background-color: aquamarine*/
+}
+/*id selector*/
+#pname {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold
+}
+/*class selector*/
+.p2 {
+    /*background-color: aquamarine;*/
+    font-size: 48px;
+    color: blueviolet;
+    font-weight: bold
+}
+/*attribut selector*/
+input[type="text"] {
+    background-color: aquamarine;
+    color: red
+}
+/*universal selector*/
+* {
+    font-style: italic;
+}
+/*group style*/
+h3, h1 {
+    color: red;
+    margin-left:30px;
+    margin-right:auto
+}
+/*child selector*/
+/*div p{
+         color:blue;
+          font-weight:bold
+     }*/
+div > p {
+    color: blue;
+    font-weight: bold
+}
+
+div + p {
+    color: green;
+    font-weight: bold
+}
+
+div ~ h4 {
+    color: deeppink;
+    font-weight: bold
+}
+body {
+    background-image: url('properties/beach-hd-background.jpg');
+    background-position:right,left,bottom
+}
+
+</style >
+

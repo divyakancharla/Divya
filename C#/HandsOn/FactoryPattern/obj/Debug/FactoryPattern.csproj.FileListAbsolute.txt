@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\dell\source\repos\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\dell\source\repos\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\dell\source\repos\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\dell\source\repos\FactoryPattern\obj\Debug\FactoryPattern.pdb

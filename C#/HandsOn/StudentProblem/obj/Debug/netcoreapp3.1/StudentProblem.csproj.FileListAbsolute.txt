@@ -1,0 +1,11 @@
+E:\Divya\C#\HandsOn\StudentProblem\bin\Debug\netcoreapp3.1\StudentProblem.exe
+E:\Divya\C#\HandsOn\StudentProblem\bin\Debug\netcoreapp3.1\StudentProblem.deps.json
+E:\Divya\C#\HandsOn\StudentProblem\bin\Debug\netcoreapp3.1\StudentProblem.runtimeconfig.json
+E:\Divya\C#\HandsOn\StudentProblem\bin\Debug\netcoreapp3.1\StudentProblem.runtimeconfig.dev.json
+E:\Divya\C#\HandsOn\StudentProblem\bin\Debug\netcoreapp3.1\StudentProblem.dll
+E:\Divya\C#\HandsOn\StudentProblem\bin\Debug\netcoreapp3.1\StudentProblem.pdb
+E:\Divya\C#\HandsOn\StudentProblem\obj\Debug\netcoreapp3.1\StudentProblem.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\StudentProblem\obj\Debug\netcoreapp3.1\StudentProblem.AssemblyInfoInputs.cache
+E:\Divya\C#\HandsOn\StudentProblem\obj\Debug\netcoreapp3.1\StudentProblem.AssemblyInfo.cs
+E:\Divya\C#\HandsOn\StudentProblem\obj\Debug\netcoreapp3.1\StudentProblem.dll
+E:\Divya\C#\HandsOn\StudentProblem\obj\Debug\netcoreapp3.1\StudentProblem.pdb

@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\HandsOnExampleListDel\bin\Debug\HandsOnExampleListDel.exe.config
+C:\Users\dell\source\repos\HandsOnExampleListDel\bin\Debug\HandsOnExampleListDel.exe
+C:\Users\dell\source\repos\HandsOnExampleListDel\bin\Debug\HandsOnExampleListDel.pdb
+C:\Users\dell\source\repos\HandsOnExampleListDel\obj\Debug\HandsOnExampleListDel.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\HandsOnExampleListDel\obj\Debug\HandsOnExampleListDel.exe
+C:\Users\dell\source\repos\HandsOnExampleListDel\obj\Debug\HandsOnExampleListDel.pdb

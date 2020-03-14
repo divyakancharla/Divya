@@ -1,0 +1,10 @@
+E:\Divya\Ado.Net\ClassLibraryAssignment\ClassLibraryAssignment\bin\Debug\netcoreapp3.1\ClassLibraryAssignment.deps.json
+E:\Divya\Ado.Net\ClassLibraryAssignment\ClassLibraryAssignment\bin\Debug\netcoreapp3.1\ClassLibraryAssignment.dll
+E:\Divya\Ado.Net\ClassLibraryAssignment\ClassLibraryAssignment\obj\Debug\netcoreapp3.1\ClassLibraryAssignment.csprojAssemblyReference.cache
+E:\Divya\Ado.Net\ClassLibraryAssignment\ClassLibraryAssignment\obj\Debug\netcoreapp3.1\ClassLibraryAssignment.AssemblyInfoInputs.cache
+E:\Divya\Ado.Net\ClassLibraryAssignment\ClassLibraryAssignment\obj\Debug\netcoreapp3.1\ClassLibraryAssignment.AssemblyInfo.cs
+E:\Divya\Ado.Net\ClassLibraryAssignment\ClassLibraryAssignment\bin\Debug\netcoreapp3.1\ClassLibraryAssignment.runtimeconfig.json
+E:\Divya\Ado.Net\ClassLibraryAssignment\ClassLibraryAssignment\bin\Debug\netcoreapp3.1\ClassLibraryAssignment.runtimeconfig.dev.json
+E:\Divya\Ado.Net\ClassLibraryAssignment\ClassLibraryAssignment\bin\Debug\netcoreapp3.1\ClassLibraryAssignment.pdb
+E:\Divya\Ado.Net\ClassLibraryAssignment\ClassLibraryAssignment\obj\Debug\netcoreapp3.1\ClassLibraryAssignment.dll
+E:\Divya\Ado.Net\ClassLibraryAssignment\ClassLibraryAssignment\obj\Debug\netcoreapp3.1\ClassLibraryAssignment.pdb

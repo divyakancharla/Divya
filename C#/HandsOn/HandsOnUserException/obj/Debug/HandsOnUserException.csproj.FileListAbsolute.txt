@@ -1,0 +1,6 @@
+E:\Divya\C#\HandsOn\HandsOnUserException\bin\Debug\HandsOnUserException.exe.config
+E:\Divya\C#\HandsOn\HandsOnUserException\bin\Debug\HandsOnUserException.exe
+E:\Divya\C#\HandsOn\HandsOnUserException\bin\Debug\HandsOnUserException.pdb
+E:\Divya\C#\HandsOn\HandsOnUserException\obj\Debug\HandsOnUserException.csprojAssemblyReference.cache
+E:\Divya\C#\HandsOn\HandsOnUserException\obj\Debug\HandsOnUserException.exe
+E:\Divya\C#\HandsOn\HandsOnUserException\obj\Debug\HandsOnUserException.pdb

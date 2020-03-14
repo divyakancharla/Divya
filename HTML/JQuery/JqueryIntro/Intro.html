@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+    <script>
+        //$(document).ready(function () {
+        //    $("button").click(function () {
+        //        $("p").toggle();
+        //    });
+        //    $("#show").click(function () {
+        //        $("p").show();
+         //   });
+        $(document).ready(function () {
+            $(".fadeIn").click(function () {
+                $("p").fadeOut(30000);
+            });
+            $(".fadeout").click(function () {
+                $("p").fadeIn(300000);
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Hell</h1>
+
+    <button type="button" class="fadeout">Fade Out</button>
+    <button type="button" class="fadeIn">Fade In</button>
+    <p>WANNA KNOW</p>
+    <p>fadeeeeeeee</p>
+    <!--<button id="hide">click</button>-->
+    <!--<button id="show">clickk</button>-->
+</body>
+</html>

@@ -1,0 +1,23 @@
+<h1>Customer Detailes</h1>
+<ul>
+  <li *ngFor="let cr of Customer">{{cr.name}}+{{cr.country}}</li>
+</ul>
+<ul>
+  <li *ngFor="let cr of Student">{{cr.professiom}}
+
+<ul>
+  <li *ngFor="let cr1 of cr.student">{{cr1.name}}{{cr1.country}}{{cr1.Age}}</li>
+</ul>
+</li>
+</ul>
+<ul *ngFor="let ff of Customer">
+  <li *ngIf="ff.Age>=55" class="text-primary">
+    {{ff.Age}}
+  </li>
+</ul>
+<h1 *ngIf="divya" class="name">{{name}}</h1>
+<ul *ngFor="let ff of Customer" [ngSwitch]="ff.country">
+<li *ngSwitchCase="'Africa'" class="text-success">    {{ff.Age}}
+  </li>
+  <li *ngSwithDefault class="text-danger">{{ff.name}}</li>
+</ul>
